@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7440982.svg)](https://doi.org/10.5281/zenodo.7440982)
 
 # Should statistics rescue mathematical modeling?
 
