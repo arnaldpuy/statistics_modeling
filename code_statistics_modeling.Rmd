@@ -59,6 +59,8 @@ sensobol::load_packages(c("sensobol", "tidyverse", "data.table", "scales"))
 
 ```
 
+# Figure 1
+
 ```{r, fig.height=3, fig.width=3 }
 
 # FIGURE 1 #####################################################################
@@ -82,6 +84,7 @@ rbind(dt, dt2, dt3) %>%
   annotate("text", x = 0.5, y = 0.35, label = "Total error", size = 3)
 ```
 
+# Figure 2
 
 ```{r, fig.height=2.2, fig.width=5}
 
